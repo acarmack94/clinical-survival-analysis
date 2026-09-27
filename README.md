@@ -14,7 +14,7 @@ survival analysis, statistical modeling, and visualization.
 
 ## Objectives
 
-- Compare progression-free survival between two treatment groups
+- Compare progression-free and overall survival between two treatment groups
 - Generate Kaplan-Meier survival estimates
 - Fit a Cox proportional hazards model
 - Create publication-quality visualizations
@@ -22,7 +22,6 @@ survival analysis, statistical modeling, and visualization.
 ## Tools
 
 - R
-- tidyverse
 - survival
 - ggplot2
 - survminer
@@ -31,11 +30,9 @@ survival analysis, statistical modeling, and visualization.
 
 The analysis includes:
 
-1. Data cleaning and preparation
-2. Descriptive statistics
-3. Kaplan-Meier analysis
-4. Cox proportional hazards regression
-5. Visualization of survival curves
+1. Descriptive statistics
+2. Visualization of survival Kaplan-Meier curves
+3. Cox proportional hazards regression
 
 ## Data
 
